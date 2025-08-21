@@ -79,7 +79,7 @@ ch07/01_main-chapter-code/Smalltestmodel-sft-standalone.pth
 ch07/01_main-chapter-code/gpt2/
 
 # Datasets
-the-verdict.txt
+src/the-verdict.txt
 
 appendix-E/01_main-chapter-code/sms_spam_collection.zip
 appendix-E/01_main-chapter-code/sms_spam_collection
